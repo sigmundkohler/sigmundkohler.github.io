@@ -1,0 +1,67 @@
+BODY {font-family: Verdana, Arial, Helvetica;
+background-color: #ebebeb}
+
+H4, H3, H2, H1 {color: #000000; font-family: Verdana, Arial, Helvetica;}
+
+
+A:hover {text-decoration:underline; color:#b50c21}
+A:visited {text-decoration:none; color:#b50c21}
+A:link {text-decoration:none; color:#b50c21}
+A:active {text-decoration:underline}
+
+
+TD.linksruecken
+{ 
+/*	position:relative;   */
+/*	left:-40px;    */
+}
+
+TD.mainmenu
+{
+	background:#FFEFD5;
+	border-width:2px;
+	border-style:solid;
+	border-color:#FF6600;
+}
+a.mainmenu
+{
+        display:block;
+        color:#666666;
+        background:#FFFF99;
+        margin:0px;
+        padding:5px;
+        font-family: Verdana, Arial, Helvetica;
+        font-weight: bold;
+        text-decoration:none;
+        border-bottom: solid 1px #FF9900;
+        border-right: solid 1px #FF9900;
+        border-left: solid 1px #FF9900;
+        border-top: solid 1px #FF9900;
+}
+a.mainmenus
+{
+        display:block;
+        color:#666666;
+        background:#FFE298;
+        margin:0px;
+        padding:5px;
+        font-family: Verdana, Arial, Helvetica;
+        font-weight: bold;
+        text-decoration:none;
+        border-bottom: solid 1px #999999;
+        border-right: solid 1px #999999;
+        border-left: solid 1px #999999;
+        border-top: solid 1px #999999;
+}
+
+a.mainmenu:hover
+{
+        color:#000000;
+        background:#FFFF99;
+}
+a.mainmenus:hover
+{
+        color:#000000;
+        background:#FFE298;
+}
+
