@@ -1,7 +1,6 @@
-BODY {font-family: Verdana, Arial, Helvetica;
-background-color: #ebebeb}
+BODY {font-family: Verdana, Arial; background-color: #ebebeb}
 
-H4, H3, H2, H1 {color: #000000; font-family: Verdana, Arial, Helvetica;}
+H4, H3, H2, H1 {color: #000000; font-family: Verdana, Arial}
 
 A:link    {text-decoration:none; color:#0620AE}
 A:visited {text-decoration:none; color:#0620AE}
